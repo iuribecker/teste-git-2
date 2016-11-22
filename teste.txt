@@ -2,7 +2,7 @@ LINHA DE TITULO
 ---------------
 
 Linha detalhe 1
-
+Linha detalhe 2
 
 ---------------
 LINHA DE RODAPE
